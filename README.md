@@ -97,12 +97,6 @@ Source_Network_Address!="40.*"
 
 ---
 
-## 📸 Screenshots
-
-(Add screenshots here)
-
----
-
 ## 📈 Key Skills Demonstrated
 
 * SIEM monitoring and log analysis
