@@ -125,4 +125,3 @@ Source_Network_Address!="40.*"
 ## 👤 Author
 
 Panpatchara Naneplai
-SOC Analyst (Entry-Level)
