@@ -1,5 +1,4 @@
 # SOC-Home-Lab---Detection-Response-Automation-Lab
-# SOC Detection & Response Automation Lab
 
 ## 📌 Overview
 
